@@ -1,11 +1,11 @@
-![About Terraform](images/terraform_1.png)
-![Terraform Life Cycle](images/terraform_2.png)
-![Installing Terraform](images/terraform_3.png)
-![Verify Installation](images/terraform_4.png)
-![Terraform Commands](images/terraform_5.png)
-![Write your First Project](images/terraform_6.png)
-![State file Good Practices](images/terraform_7.png)
-![Ideal Terraform Setup](images/terraform_8.png)
-![Modules in Terraform](images/terraform_9.png)
-![Problems with Terraform](images/terraform_10.png)
-![Terraform Interview Questions](images/terraform_11.png)
+# 🚀 **Terraform Quick Guide**
+
+- **Terraform** is an **Infrastructure as Code (IaC)** tool for managing cloud resources.
+- Use **`terraform init`** to initialize your project and **`terraform apply`** to deploy infrastructure. 🚀
+- Install Terraform by downloading it from [here](https://www.terraform.io/downloads.html). 📥
+- Verify installation with **`terraform --version`**. ✅
+- Write configurations in `.tf` files, like creating an EC2 instance in AWS. 🖥️
+- Always use **state files** securely to track resources. 🔒
+- Use **modules** to reuse code across projects. 📂
+- Common commands include **`terraform plan`**, **`terraform apply`**, and **`terraform destroy`**. 🔄
+- Store **state files** remotely for collaboration (e.g., AWS S3). ☁️
